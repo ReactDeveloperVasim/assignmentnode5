@@ -1,0 +1,22 @@
+export const navData=[
+    {
+        path:"/",
+        label:"Iphone"
+    },
+    {
+        path:"/samsung",
+        label:"Samsung"
+    },
+    {
+        path:"/redmi",
+        label:"Redmi"
+    },
+    {
+        path:"/realme",
+        label:"RealMe"
+    },
+    {
+        path:"oneplus",
+        label:"OnePlus"
+    },
+]
